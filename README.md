@@ -1,2 +1,2 @@
-# Time_Series_Forecasting-
-This repository serves as a comprehensive resource for learning and implementing time series forecasting techniques. Whether you're a data scientist, researcher, or enthusiast, this repository provides tutorials, examples, and code templates to help you understand and apply time series forecasting methods effectively.
+# TimeSeries_Forecasting
+Time series forecasting is a branch of machine learning and statistics that deals with predicting future values based on historical data points that are ordered chronologically. In a time series, data points are collected or recorded at regular intervals over time, such as daily, monthly, or yearly.
